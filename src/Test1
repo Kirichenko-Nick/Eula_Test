@@ -1,0 +1,8 @@
+public class Test1{
+        nullSafeStream(openItemMatchingRuleEntities)
+                .filter(rule -> rule.getRuleType() == EOpenItemMatchingRuleType.NAME)
+                        .map(OpenItemMatchingRuleEntity::getAccount)
+                                .filter(Objects::nonNull)
+                                        .findFirst();
+
+}
