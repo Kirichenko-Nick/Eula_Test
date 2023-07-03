@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,7 +18,7 @@ public class ProbSieben {
         for (int primeNumber : primes) {
             System.out.print(primeNumber + " ");
         }
-        System.out.println("");
+        System.out.println( "\n" +"primes: " + primes.get(primes.size() - 1));
         System.out.println(primes.size());
 
         List<Integer> primeNumbers = findPrimeNumbers(start, end);
