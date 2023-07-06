@@ -1,0 +1,47 @@
+
+import java.util.*;
+
+
+public class Probe2 {
+    public static void main(String[] args) {
+
+
+        // Creating a list of Integers
+        List<Integer> list = Arrays.asList(5, -10, 7, -18, 23);
+
+        System.out.println(list);
+
+        System.out.println("The sorted stream according "
+                + "to provided Comparator is : ");
+
+        // Displaying the list of Strings in
+        // reverse order after sorting
+
+        List<Integer> sortedList = list.stream().sorted(Comparator.reverseOrder()).toList();
+        sortedList.forEach(x -> {
+            System.out.print(x);
+           // System.out.println(sortedList.size() - 1 + "  " + sortedList.indexOf(x));
+            if (sortedList.size() - 1 != sortedList.indexOf(x)) {
+                System.out.print(", ");
+            } else {
+                System.out.println("");
+            }
+        });
+
+
+        Collections.sort(list);
+        list.sort(Collections.reverseOrder());
+        list.forEach ( x -> {
+
+                System.out.print(x);
+
+                if (list.size() - 1 != list.indexOf(x)) {
+                    System.out.print(", ");
+                } else {
+                    System.out.println("");
+                }
+        });
+    }
+}
+
+
