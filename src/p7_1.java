@@ -31,7 +31,7 @@ public class p7_1 {
 
         return primeNumbers;
     }
-
+//1
     public static boolean isPrime(int number) {
         if (number < 2) {
             return false;

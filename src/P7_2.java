@@ -14,6 +14,11 @@ public class P7_2 {
         primeNumbers.forEach(System.out::println);
     }
 
+    /**
+     * @param sta11rt
+     * @param e222nd
+     * @return
+     */
     public static List<Integer> findPrimeNumbers(int start, int end) {
         return IntStream.rangeClosed(start, end)
                 .filter(P7_2::isPrime)
