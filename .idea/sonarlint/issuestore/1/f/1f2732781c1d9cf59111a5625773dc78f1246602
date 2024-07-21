@@ -1,0 +1,35 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÞÜôõúÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Çµí‘
+P
+java:S1854B":Remove this useless assignment to local variable "result".(ˆáŒƒ
+V	java:S125"<This block of commented-out lines of code should be removed.(³Êðöøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ôÅÉê
+@	java:S106"+Replace this use of System.out by a logger.(ñù†¾
+E	java:S106 "+Replace this use of System.out by a logger.(ÙŒúûÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(®¬×
+@	java:S106""+Replace this use of System.out by a logger.(†«Üì
+@	java:S106#"+Replace this use of System.out by a logger.(†½ú–
+o
+java:S3012-"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¡äòÂ
+E	java:S1062"+Replace this use of System.out by a logger.(¸æ²¥üÿÿÿÿ
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ÍÕî±
+K
+java:S1751="5Remove this "break" statement or make it conditional.(›ûä·
+@	java:S106A"+Replace this use of System.out by a logger.(¹¥²¬
+@	java:S106F"+Replace this use of System.out by a logger.(æŠÌÙ
+V	java:S125H"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ
+@	java:S106T"+Replace this use of System.out by a logger.(±‘«Í
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(ÔšÊÏ
+E	java:S106V"+Replace this use of System.out by a logger.(ù„¨‰þÿÿÿÿ
+E	java:S106Y"+Replace this use of System.out by a logger.(®Òøíüÿÿÿÿ
+E	java:S106a"+Replace this use of System.out by a logger.(üÁ®ðúÿÿÿÿ
+Q	java:S125e"<This block of commented-out lines of code should be removed.(±¯€¤
+@	java:S106g"+Replace this use of System.out by a logger.(¡ñÓ
+@	java:S106j"+Replace this use of System.out by a logger.(•ðÀ€
+H
+java:S1128
+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

@@ -1,0 +1,10 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã©œñ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä®¨æúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(íîÃ¹ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¨ìÁ‚úÿÿÿÿ
+U
+java:S6213&":Rename this variable to not match a restricted identifier.(ÝþÜ«üÿÿÿÿ
+O
+java:S28646"4Iterate over the "entrySet" instead of the "keySet".(³ Ã»ýÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(™¦‚ñþÿÿÿÿ

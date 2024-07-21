@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÑ˜¸8É¿÷‡‰2
+P
+java:S1481".Remove this unused "summSteps" local variable.(ÈàÌ•ùÿÿÿÿ8Ê¿÷‡‰2
+L	java:S106"+Replace this use of System.out by a logger.(—þÿ¶þÿÿÿÿ8Ê¿÷‡‰2

@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…‹ûÿÿÿÿ8€¸é…Š2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8Œ¹é…Š2
+L	java:S106"+Replace this use of System.out by a logger.(¬ÇŞØüÿÿÿÿ8–¹é…Š2
+G	java:S106"+Replace this use of System.out by a logger.(Ë’8—¹é…Š2
+f
+java:S1858"I"animal" is already a string, there's no need to call "toString()" on it.(Ë’8˜¹é…Š2
+G	java:S106"+Replace this use of System.out by a logger.(®ìê8˜¹é…Š2
+L	java:S106 "+Replace this use of System.out by a logger.(Ëè¼Åıÿÿÿÿ8™¹é…Š2
+G	java:S106'"+Replace this use of System.out by a logger.(ü¦ÃÒ8œ¹é…Š2
+G	java:S106*"+Replace this use of System.out by a logger.(ÒÚ·ğ8œ¹é…Š2
+L	java:S106."+Replace this use of System.out by a logger.(Á˜Ğùÿÿÿÿ8¹é…Š2
+G	java:S1060"+Replace this use of System.out by a logger.(»ôú¶8¹é…Š2
+L	java:S1069"+Replace this use of System.out by a logger.(“†óÄÿÿÿÿÿ8 ¹é…Š2
+F	java:S106:"+Replace this use of System.out by a logger.(‘²›88 ¹é…Š2
+L	java:S106;"+Replace this use of System.out by a logger.(«áíşÿÿÿÿ8 ¹é…Š2
+F	java:S106<"+Replace this use of System.out by a logger.(›â¦s8 ¹é…Š2
+G	java:S106="+Replace this use of System.out by a logger.(àëÜÈ8¡¹é…Š2
+L	java:S106>"+Replace this use of System.out by a logger.(ÿ‘á·ûÿÿÿÿ8¡¹é…Š2

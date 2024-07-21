@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…‹ûÿÿÿÿ8ªñõÉ‰2
+\
+java:S1854":Remove this useless assignment to local variable "matrix".(õ­¼ƒûÿÿÿÿ8å«„…Š2
+_
+java:S1854"=Remove this useless assignment to local variable "expensesA".(Íù‡üÿÿÿÿ8æ«„…Š2
+^
+java:S1854"<Remove this useless assignment to local variable "expenses".(‚â…®øÿÿÿÿ8ç«„…Š2
+G	java:S106"+Replace this use of System.out by a logger.(Ğôõ¼8—¬„…Š2
+O
+java:S1481"-Remove this unused "expenses" local variable.(‚â…®øÿÿÿÿ8¬¬„…Š2
+P
+java:S1481".Remove this unused "expensesA" local variable.(Íù‡üÿÿÿÿ8¹¬„…Š2
+M
+java:S1481"+Remove this unused "matrix" local variable.(õ­¼ƒûÿÿÿÿ8¿¬„…Š2
+Q
+java:S1128"4Remove this unused import 'org.hamcrest.core.AllOf'.(ÄÀëô8ë¬„…Š2
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ªñõÉ‰2

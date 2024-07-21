@@ -1,0 +1,16 @@
+
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôëå½ûÿÿÿÿ8¶È‡·Š2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…‹ûÿÿÿÿ8¸È‡·Š2
+L	java:S106"+Replace this use of System.out by a logger.(©Ñÿ¶ùÿÿÿÿ8ñÈ‡·Š2
+L	java:S106!"+Replace this use of System.out by a logger.(©Ñÿ¶ùÿÿÿÿ8óÈ‡·Š2
+L	java:S106$"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ôÈ‡·Š2
+G	java:S1062"+Replace this use of System.out by a logger.(•õÈ8üÈ‡·Š2
+G	java:S1068"+Replace this use of System.out by a logger.(•õÈ8ıÈ‡·Š2
+T
+java:S11355"2Complete the task associated to this TODO comment.(ñğµüÿÿÿÿ8ıÈ‡·Š2
+O
+java:S11356"2Complete the task associated to this TODO comment.(ä¢ƒ¿8ıÈ‡·Š2
+L	java:S1069"+Replace this use of System.out by a logger.(—§å”úÿÿÿÿ8şÈ‡·Š2
+G	java:S106D"+Replace this use of System.out by a logger.(•õÈ8ˆÉ‡·Š2
+G	java:S106N"+Replace this use of System.out by a logger.(•õÈ8‹É‡·Š2
+G	java:S106Y"+Replace this use of System.out by a logger.(•õÈ8É‡·Š2

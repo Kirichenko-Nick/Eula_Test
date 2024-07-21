@@ -1,0 +1,29 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¼×£øÿÿÿÿ8ÒçÕ¼‹2
+L	java:S106	"+Replace this use of System.out by a logger.(ÊÌ´úÿÿÿÿ8ÃêÕ¼‹2
+G	java:S106"+Replace this use of System.out by a logger.(•‘¥ƒ8ÄêÕ¼‹2
+L	java:S106"+Replace this use of System.out by a logger.(ôÒ©÷üÿÿÿÿ8ÇêÕ¼‹2
+L	java:S106"+Replace this use of System.out by a logger.(¤£îøÿÿÿÿ8ÈêÕ¼‹2
+L	java:S106"+Replace this use of System.out by a logger.(Åş¥‰ıÿÿÿÿ8ËêÕ¼‹2
+L	java:S106 "+Replace this use of System.out by a logger.(×áÖâøÿÿÿÿ8ÍêÕ¼‹2
+G	java:S106&"+Replace this use of System.out by a logger.(†¼ö™8ÎêÕ¼‹2
+L	java:S106("+Replace this use of System.out by a logger.(ø¯Ÿùşÿÿÿÿ8ĞêÕ¼‹2
+L	java:S106-"+Replace this use of System.out by a logger.(’ó¹˜ûÿÿÿÿ8ÑêÕ¼‹2
+G	java:S106/"+Replace this use of System.out by a logger.(Ù¦ÂÎ8ÒêÕ¼‹2
+n
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(´â¶ª8ÓêÕ¼‹2
+G	java:S1064"+Replace this use of System.out by a logger.(´â¶ª8ÔêÕ¼‹2
+L	java:S1066"+Replace this use of System.out by a logger.(»¿‡Ñıÿÿÿÿ8ÔêÕ¼‹2
+G	java:S1069"+Replace this use of System.out by a logger.(èŞˆÊ8ÔêÕ¼‹2
+L	java:S106?"+Replace this use of System.out by a logger.(¸ôÈ§ûÿÿÿÿ8ÖêÕ¼‹2
+L	java:S106@"+Replace this use of System.out by a logger.(©Ä¯Ìúÿÿÿÿ8ÖêÕ¼‹2
+L	java:S106A"+Replace this use of System.out by a logger.(‡Í³Øıÿÿÿÿ8×êÕ¼‹2
+L	java:S106B"+Replace this use of System.out by a logger.(ÏÉŞ³ûÿÿÿÿ8×êÕ¼‹2
+G	java:S106C"+Replace this use of System.out by a logger.(¤ôÊ8×êÕ¼‹2
+L	java:S106D"+Replace this use of System.out by a logger.(éª©·ÿÿÿÿÿ8ØêÕ¼‹2
+L	java:S106E"+Replace this use of System.out by a logger.(¬…‰Åùÿÿÿÿ8ØêÕ¼‹2
+L	java:S106F"+Replace this use of System.out by a logger.(×÷Îªúÿÿÿÿ8ØêÕ¼‹2
+L	java:S106G"+Replace this use of System.out by a logger.(õÃ“Êıÿÿÿÿ8ÙêÕ¼‹2
+L	java:S106H"+Replace this use of System.out by a logger.(ŒÒç¥øÿÿÿÿ8ÙêÕ¼‹2
+G	java:S106I"+Replace this use of System.out by a logger.(¥¯¶8ÚêÕ¼‹2
+]	java:S125P"<This block of commented-out lines of code should be removed.(­ÑœĞûÿÿÿÿ8ÚêÕ¼‹2

@@ -1,0 +1,40 @@
+
+z	java:S135E"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8Ô«Ÿˆ‰2
+z	java:S135X"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8Ô«Ÿˆ‰2
+{	java:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ä«Ÿˆ‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÑ˜¸8ä«Ÿˆ‰2
+X	java:S125"<This block of commented-out lines of code should be removed.(ÆƒµÁ8—¬Ÿˆ‰2
+X	java:S125""<This block of commented-out lines of code should be removed.(¨Ý™å8—¬Ÿˆ‰2
+L	java:S106$"+Replace this use of System.out by a logger.(ëïóœøÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106)"+Replace this use of System.out by a logger.(–ƒàÈþÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106,"+Replace this use of System.out by a logger.(Á³­Îýÿÿÿÿ8—¬Ÿˆ‰2
+X	java:S125+"<This block of commented-out lines of code should be removed.(³¿áÚ8—¬Ÿˆ‰2
+]	java:S125/"<This block of commented-out lines of code should be removed.(üÞõ¶ýÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S1061"+Replace this use of System.out by a logger.(¤˜Ô£ûÿÿÿÿ8—¬Ÿˆ‰2
+X	java:S1253"<This block of commented-out lines of code should be removed.(ú¥ó¡8—¬Ÿˆ‰2
+G	java:S1065"+Replace this use of System.out by a logger.(ùÈÝ8—¬Ÿˆ‰2
+G	java:S106:"+Replace this use of System.out by a logger.(Ëªý­8—¬Ÿˆ‰2
+L	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8—¬Ÿˆ‰2
+t
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(·àæ´üÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106G"+Replace this use of System.out by a logger.(›‰ øÿÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106L"+Replace this use of System.out by a logger.(¦ÈÃýÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106Q"+Replace this use of System.out by a logger.(¦ÈÃýÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106Y"+Replace this use of System.out by a logger.(èÇÝ£ýÿÿÿÿ8—¬Ÿˆ‰2
+G	java:S106_"+Replace this use of System.out by a logger.(Òðãé8—¬Ÿˆ‰2
+G	java:S106d"+Replace this use of System.out by a logger.(Òðãé8—¬Ÿˆ‰2
+L	java:S106j"+Replace this use of System.out by a logger.(Îßôêûÿÿÿÿ8—¬Ÿˆ‰2
+L	java:S106k"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8—¬Ÿˆ‰2
+G	java:S106x"+Replace this use of System.out by a logger.(¿‘×8—¬Ÿˆ‰2
+9
+java:S3626"Remove this redundant jump.(ûÁÝ…8—¬Ÿˆ‰2
+L	java:S106}"+Replace this use of System.out by a logger.(ÙëÉÓýÿÿÿÿ8—¬Ÿˆ‰2
+M	java:S106‚"+Replace this use of System.out by a logger.(Š¢àËûÿÿÿÿ8—¬Ÿˆ‰2
+H	java:S106„"+Replace this use of System.out by a logger.(€Ü¦ª8—¬Ÿˆ‰2
+M	java:S106ˆ"+Replace this use of System.out by a logger.(©É©¿ùÿÿÿÿ8—¬Ÿˆ‰2
+M	java:S106‰"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8—¬Ÿˆ‰2
+H	java:S106Œ"+Replace this use of System.out by a logger.(”´½·8—¬Ÿˆ‰2
+H	java:S106Ž"+Replace this use of System.out by a logger.(€Ü¦ª8—¬Ÿˆ‰2
+M	java:S106•"+Replace this use of System.out by a logger.(­ÛÐüÿÿÿÿ8ÂãÔˆ‰2
+H	java:S106œ"+Replace this use of System.out by a logger.(½¿Ý”8«ÿãˆ‰2
+H	java:S106¡"+Replace this use of System.out by a logger.(½¿Ý”8ü…æˆ‰2

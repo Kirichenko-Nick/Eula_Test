@@ -1,0 +1,25 @@
+
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•Àç
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ôøÕ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+t
+java:S1450"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÂùÎıÿÿÿÿ
+j
+java:S1450"TRemove the "input" field and declare it as a local variable in the relevant methods.(  º€
+q
+java:S1450"VRemove the "scanner" field and declare it as a local variable in the relevant methods.(²øÉìüÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(À’·êøÿÿÿÿ
+Z
+java:S2147-"DCombine this catch with the one at line 42, which has the same body.(ü¨áé
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(îË¿—øÿÿÿÿ
+L
+java:S2696!"6Make the enclosing method "static" or remove this set.(ƒ©•
+V	java:S125"<This block of commented-out lines of code should be removed.(Îû’ğÿÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(Åáõşûÿÿÿÿ
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(Æîß…şÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(¥Ğ¨

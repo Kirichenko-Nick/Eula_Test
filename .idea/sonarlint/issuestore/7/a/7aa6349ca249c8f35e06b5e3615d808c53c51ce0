@@ -1,0 +1,25 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ï½ç¼
+a
+java:S13010"KReplace this "switch" statement by "if" statements to increase readability.(Ï½ç¼
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”—ÎÁıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÌèÃÿÿÿÿÿ
+Q
+java:S3518h";Make sure "price" can't be zero before doing this division.(ºïÓé
+Q
+java:S3518J";Make sure "price" can't be zero before doing this division.(ºïÓé
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘
+@	java:S106"+Replace this use of System.out by a logger.(Åõ›
+@	java:S106"+Replace this use of System.out by a logger.(µÉó˜
+7	java:S131""Add a default case to this switch.(Ï½ç¼
+@	java:S106#"+Replace this use of System.out by a logger.(ßÙÏÃ
+E	java:S106+"+Replace this use of System.out by a logger.(è›¾Ìøÿÿÿÿ
+7	java:S1310""Add a default case to this switch.(Ï½ç¼
+6	java:S1315""Add a default case to this switch.(©Ó¸b
+E	java:S106L"+Replace this use of System.out by a logger.(à„Ü®ıÿÿÿÿ
+6	java:S131U""Add a default case to this switch.(©Ó¸b
+E	java:S106j"+Replace this use of System.out by a logger.(à„Ü®ıÿÿÿÿ
+Ü
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 85 to 64, Complexity from 21 to 14, Nesting Level from 3 to 2, Number of Variables from 16 to 6.(Çµí‘
