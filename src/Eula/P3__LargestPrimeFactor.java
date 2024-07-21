@@ -1,3 +1,4 @@
+package Eula;
 
 public class P3__LargestPrimeFactor {
     public static void main(String[] args) {
@@ -15,12 +16,12 @@ public class P3__LargestPrimeFactor {
         while (number % 2 == 0) {
             largestPrimeFactor = 2;
             number /= 2;
-            System.out.println(" 1 "  +  number);
+            System.out.println(" 1 " + number);
         }
 
         for (long i = 3; i <= Math.sqrt(number); i += 2) {
             while (number % i == 0) {
-                System.out.println("nummer3   " + number+" " + i);
+                System.out.println("nummer3   " + number + " " + i);
                 largestPrimeFactor = i;
                 number /= i;
                 System.out.println("4    " + number);

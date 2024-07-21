@@ -1,0 +1,67 @@
+package Splitter;
+
+
+import java.io.*;
+        import java.util.zip.CRC32;
+
+public class FileJoinerCRC {
+
+
+    public static void main(String[] args) {
+        String directoryPath = "C:\\Users\\Student\\OneDrive - GFN AG (EDU)\\Desktop_2\\Presentation ChnkeFile\\Splitter\\"; // Замените на путь к папке с частями файла
+
+        try {
+            joinFiles(directoryPath);
+            System.out.println("Файл успешно объединен.");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void joinFiles(String directoryPath) throws IOException {
+        File directory = new File(directoryPath);
+
+        // Получаем все файлы в указанной директории
+        File[] files = directory.listFiles((dir, name) -> name.endsWith(".bin"));
+
+        if (files != null && files.length > 0) {
+            // Определение общего размера файла
+            long totalSize = 0;
+            for (File file : files) {
+                totalSize += file.length();
+            }
+
+            // Создание буфера для слияния файлов
+            byte[] buffer = new byte[(int) totalSize];
+            int bytesRead = 0;
+
+            // Чтение данных из каждого файла и слияние их в буфер
+            for (File file : files) {
+                try (FileInputStream fis = new FileInputStream(file);
+                     BufferedInputStream bis = new BufferedInputStream(fis)) {
+                    int chunkSize = (int) file.length();
+                    bis.read(buffer, bytesRead, chunkSize);
+                    bytesRead += chunkSize;
+                }
+            }
+
+            // Проверка CRC32 для объединенного файла
+            CRC32 crc32 = new CRC32();
+            crc32.update(buffer);
+            long crcValue = crc32.getValue();
+
+            // Создание файла для объединенных данных
+            String outputFile = directory.getParent() + File.separator +
+                    "output_file_crc_" + crcValue + ".txt";
+
+            try (FileOutputStream fos = new FileOutputStream(outputFile)) {
+                fos.write(buffer);
+            }
+
+            System.out.println("Файл успешно объединен и сохранен в " + outputFile);
+            System.out.println("CRC32 для объединенного файла: " + crcValue);
+        } else {
+            System.out.println("Отсутствуют файлы для объединения.");
+        }
+    }
+}
